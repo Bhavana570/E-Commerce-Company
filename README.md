@@ -10,6 +10,8 @@ Led an e-commerce project focused on improving customer satisfaction and driving
 3.Optimize inventory management to improve product availability and minimize excess stock.
 4.Leverage data cleaning and visualization tools like Tableau to deliver actionable insights and drive business growth.
 
+
+## DASHBOARD:
 ![Dashboard](https://github.com/Bhavana570/E-Commerce-Company/blob/main/Dashboard(E-Commerce%20Company).png)
 
 ## Business Problems and Solutions
