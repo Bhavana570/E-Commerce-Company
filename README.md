@@ -6,8 +6,11 @@ Led an e-commerce project focused on improving customer satisfaction and driving
 
 ## Objective
 1.Utilize advanced data analysis techniques to identify sales trends and business opportunities.
+
 2.Conduct comprehensive customer insights and product performance evaluations to enhance marketing strategies.
+
 3.Optimize inventory management to improve product availability and minimize excess stock.
+
 4.Leverage data cleaning and visualization tools like Tableau to deliver actionable insights and drive business growth.
 
 
