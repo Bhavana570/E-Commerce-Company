@@ -12,6 +12,18 @@ Led an e-commerce project focused on improving customer satisfaction and driving
 
 ## Business Problems and Solutions
 
+### 1.Identify the top 3 cities with the highest number of customers to determine key markets for targeted marketing and logistic optimization.
+
+```sql
+SELECT 
+    location, COUNT(customer_id) AS number_of_customers
+FROM
+    customers
+GROUP BY location
+ORDER BY number_of_customers DESC
+LIMIT 3;
+```
+
 
 
 
