@@ -17,7 +17,7 @@ Led an e-commerce project focused on improving customer satisfaction and driving
 ## DASHBOARD:
 ![Dashboard](https://github.com/Bhavana570/E-Commerce-Company/blob/main/Dashboard(E-Commerce%20Company).png)
 
-## Business Problems and Solutions
+## Problems and Solutions
 
 ### 1. Identify the top 3 cities with the highest number of customers to determine key markets for targeted marketing and logistic optimization.
 
