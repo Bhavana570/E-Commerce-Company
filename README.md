@@ -5,13 +5,13 @@
 Led an e-commerce project focused on improving customer satisfaction and driving sales growth through data-driven strategies. Conducted in-depth analysis of sales trends, customer behavior, and product performance to refine marketing approaches and optimize inventory management. Utilized data cleaning techniques and advanced visualization tools like Tableau to uncover actionable insights. Successfully streamlined operations, enhanced product availability, and reduced excess stock for improved efficiency.
 
 ## Objective
-1.Utilize advanced data analysis techniques to identify sales trends and business opportunities.
+1. Utilize advanced data analysis techniques to identify sales trends and business opportunities.
 
-2.Conduct comprehensive customer insights and product performance evaluations to enhance marketing strategies.
+2. Conduct comprehensive customer insights and product performance evaluations to enhance marketing strategies.
 
-3.Optimize inventory management to improve product availability and minimize excess stock.
+3. Optimize inventory management to improve product availability and minimize excess stock.
 
-4.Leverage data cleaning and visualization tools like Tableau to deliver actionable insights and drive business growth.
+4. Leverage data cleaning and visualization tools like Tableau to deliver actionable insights and drive business growth.
 
 
 ## DASHBOARD:
