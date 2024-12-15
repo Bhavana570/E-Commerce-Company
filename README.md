@@ -5,3 +5,6 @@
 To leverage data-driven insights to improve customer satisfaction and boost sales by analyzing sales data to identify trends and opportunities. Perform detailed customer behavior analysis and product performance evaluations to refine marketing strategies and optimize inventory management. Utilize data cleaning techniques and advanced visualization tools like Tableau to streamline operations, enhance product availability, and minimize excess stock.
 
 
+https://github.com/Bhavana570/E-Commerce-Company/blob/main/E-Commerce(SQL_Query).sql
+
+
